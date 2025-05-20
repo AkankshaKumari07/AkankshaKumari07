@@ -25,7 +25,7 @@ I'm currently seeking opportunities as a Frontend Developer where I can contribu
 
 - **Email:** [akankshak0707@gmail.com](mailto:akankshak0707@gmail.com)
 - **LinkedIn:** [linkedin.com/in/akanksha-kumari-661aa324a](https://www.linkedin.com/in/akanksha-kumari-661aa324a/)
-- **GitHub:** [https://github.com/AkankshaKumari07/]([github.com/AkankshaKumari07)
+- **GitHub:** [https://github.com/AkankshaKumari07](https://github.com/AkankshaKumari07))
 
 Let's build something amazing together!
 
